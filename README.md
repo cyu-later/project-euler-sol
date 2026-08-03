@@ -1,5 +1,5 @@
 # project-euler-sol
 Project Euler select solutions (Python)
 
-Current: 37/975 (3.8%)
+Current: 41/1007 (4.1%)
 Last Updated: Dec 23, 2025
